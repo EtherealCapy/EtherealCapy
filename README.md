@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Emilio Ruiz from Spain<br><br>- 🔭 I’m working as back-end developer<br>- 📚 I'm currently studying an FP about development</p>
+<p align="left">I'm Emilio from Spain<br><br>- 🔭 I’m working as back-end developer<br>- 📚 I'm currently studying an FP about development</p>
 
 ###
 
