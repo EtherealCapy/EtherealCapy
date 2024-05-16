@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm Emilio from Spain<br><br>- 🔭 I’m working as back-end developer<br>- 📚 I'm currently studying a professional degree about application development</p>
+<p align="left">I'm Emilio from Spain<br><br>- 🔭 I’m working as back-end developer<br>- 📚 I'm studying a professional degree about application development</p>
 
 ###
 
