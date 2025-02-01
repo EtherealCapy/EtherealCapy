@@ -5,13 +5,13 @@
 ###
 <div align = "center">
   
-  [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>](https://www.linkedin.com/in/emilio-ruiz-maldonado/)
+  [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>](https://www.linkedin.com/in/emilio-rm/)
   
 </div>
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey there! I`m Emilio   👋</h1>
 
 ###
 
@@ -19,7 +19,11 @@
 
 ###
 
-<p align="left">I'm Emilio from Spain<br><br>- 🔭 I’m working as back-end developer<br>- 📚 I'm studying a professional degree about application development</p>
+<ul>
+  <li> 21 years old Backend Developer </li>
+  <li> 📍 Spain </li>
+  <li> 🎓 Application Development Associate Degree </li>
+</ul>
 
 ###
 
