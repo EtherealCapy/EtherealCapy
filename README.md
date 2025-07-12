@@ -20,7 +20,7 @@
 ###
 
 <ul>
-  <li> 21 years old Backend Developer </li>
+  <li> 22 years old Backend Developer </li>
   <li> 📍 Spain </li>
   <li> 🎓 Application Development Associate Degree </li>
 </ul>
